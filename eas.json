@@ -1,10 +1,9 @@
 {
-  "expo": {
-    "name": "Interview AI Assistant",
-    "slug": "interview-ai-assistant",
-    "version": "1.0.0",
-    "android": {
-      "package": "com.ainan.interviewai"
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
     }
   }
 }
